@@ -1,0 +1,21 @@
+# Maven build
+target/
+*.class
+*.log
+*.jar
+*.war
+*.zip
+
+# IDE fajlovi
+.idea/
+*.iml
+.classpath
+.project
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+# Maven wrapper metadata
+.mvn/timing.properties
+
